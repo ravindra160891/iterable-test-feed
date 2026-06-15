@@ -1,52 +1,52 @@
 [
-  {
-    "id": "P1001",
-    "name": "Laptop Pro 15",
-    "category": "Electronics",
-    "price": 999.99,
-    "brand": "TechNova",
-    "inStock": true,
-    "imageUrl": "https://example.com/images/laptop-pro-15.jpg",
-    "productUrl": "https://example.com/products/laptop-pro-15"
-  },
-  {
-    "id": "P1002",
-    "name": "Wireless Headphones",
-    "category": "Electronics",
-    "price": 199.99,
-    "brand": "SoundMax",
-    "inStock": true,
-    "imageUrl": "https://example.com/images/headphones.jpg",
-    "productUrl": "https://example.com/products/headphones"
-  },
-  {
-    "id": "P1003",
-    "name": "Running Shoes",
-    "category": "Fashion",
-    "price": 149.99,
-    "brand": "FitRun",
-    "inStock": true,
-    "imageUrl": "https://example.com/images/shoes.jpg",
-    "productUrl": "https://example.com/products/shoes"
-  },
-  {
-    "id": "P1004",
-    "name": "Coffee Machine",
-    "category": "Home",
-    "price": 299.99,
-    "brand": "BrewMaster",
-    "inStock": false,
-    "imageUrl": "https://example.com/images/coffee-machine.jpg",
-    "productUrl": "https://example.com/products/coffee-machine"
-  },
-  {
-    "id": "P1005",
-    "name": "Smart Watch",
-    "category": "Electronics",
-    "price": 249.99,
-    "brand": "WearTech",
-    "inStock": true,
-    "imageUrl": "https://example.com/images/smart-watch.jpg",
-    "productUrl": "https://example.com/products/smart-watch"
-  }
+   {
+      "id":"P1001",
+      "name":"Laptop Pro 15",
+      "category":"Electronics",
+      "price":999.99,
+      "brand":"TechNova",
+      "inStock":true,
+      "imageUrl":"https://example.com/images/laptop-pro-15.jpg",
+      "productUrl":"https://example.com/products/laptop-pro-15"
+   },
+   {
+      "id":"P1002",
+      "name":"Wireless Headphones",
+      "category":"Electronics",
+      "price":199.99,
+      "brand":"SoundMax",
+      "inStock":true,
+      "imageUrl":"https://example.com/images/headphones.jpg",
+      "productUrl":"https://example.com/products/headphones"
+   },
+   {
+      "id":"P1003",
+      "name":"Running Shoes",
+      "category":"Fashion",
+      "price":149.99,
+      "brand":"FitRun",
+      "inStock":true,
+      "imageUrl":"https://example.com/images/shoes.jpg",
+      "productUrl":"https://example.com/products/shoes"
+   },
+   {
+      "id":"P1004",
+      "name":"Coffee Machine",
+      "category":"Home",
+      "price":299.99,
+      "brand":"BrewMaster",
+      "inStock":false,
+      "imageUrl":"https://example.com/images/coffee-machine.jpg",
+      "productUrl":"https://example.com/products/coffee-machine"
+   },
+   {
+      "id":"P1005",
+      "name":"Smart Watch",
+      "category":"Electronics",
+      "price":249.99,
+      "brand":"WearTech",
+      "inStock":true,
+      "imageUrl":"https://example.com/images/smart-watch.jpg",
+      "productUrl":"https://example.com/products/smart-watch"
+   }
 ]
